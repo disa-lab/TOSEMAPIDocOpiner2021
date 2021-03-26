@@ -1,2 +1,2 @@
-# Summarizing API Usage Scenarios from Crowd-Sourced Documentation
-Online appendix for the TSE submission.
+# Data for paper "Automatic API Usage Scenario Documentation from Technical Q&A Sites"
+user study data
